@@ -1,0 +1,13 @@
+{
+  "name": "docz-gen",
+  "scripts": {
+  "docz:dev": "docz dev",
+  "docz:build": "docz build",
+  "docz:serve": "docz build && docz serve"
+},
+  "dependencies": {
+    "docz": "^2.4.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
